@@ -1,4 +1,4 @@
-# Zone-h kayıt toplama
+# Zone-h kayıt toplama aracı
 burada zone-h nin robot ları engellemek için kullandığı resimle doğrulama olduğu için 
 manuel girip doğrulamayı aştıktan sonra sayfadaki cookie bilgilerini alıp programı editlemek 
 Alacağımız cookie den 2 kısımdır 
